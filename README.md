@@ -46,8 +46,7 @@ I'm a **Software Developer** and **UI/UX Enthusiast** based in Indonesia. Curren
 ---
 
 ### 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/gerson-sebastian-tambunan/)
-- 📧 [Email](mailto:your-email@example.com)
-- 📸 [Instagram](https://www.instagram.com/your-username/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gerson-sebastian-860124261/)
+- 📧 [Email](sebastiangerson24@gmail.com)
 
 *"Bridging the gap between complex backend logic and intuitive frontend design."*
