@@ -69,4 +69,4 @@ Saya adalah mahasiswa **Teknik Informatika** di **UPN "Veteran" Jakarta** yang b
 ---
 
 ### 💬 Let's Connect!
-*"Bridging the gap between complex backend logic and intuitive frontend design."*
+
