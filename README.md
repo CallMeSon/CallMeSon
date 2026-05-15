@@ -58,15 +58,12 @@ Saya adalah mahasiswa **Teknik Informatika** di **UPN "Veteran" Jakarta** yang b
 #### 📱 Mobile Applications
 - **[Inventory Management System]** – Aplikasi Android menggunakan **Kotlin** untuk manajemen stok barang secara efisien, lengkap dengan fitur login dan manajemen data.
 
-#### 🎨 Design & Research
-- **[Dignition]** & **[EdAdapt]** – Fokus pada arsitektur informasi dan riset kelayakan bisnis untuk platform edukasi adaptif berbasis AI.
-
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CallMeSon&show_icons=true&theme=radical&count_private=true" alt="Gerson's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CallMeSon&show_icons=true&theme=radical" alt="Gerson's GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CallMeSon&layout=compact&theme=radical" alt="Top Langs" />
 </p>
