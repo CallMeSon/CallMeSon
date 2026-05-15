@@ -13,11 +13,12 @@
 ---
 
 ### 🚀 About Me
-Saya adalah mahasiswa **Teknik Informatika** di **UPN "Veteran" Jakarta** yang berfokus pada pembangunan ekosistem digital yang fungsional dan indah. Saya memiliki pengalaman dalam mengembangkan aplikasi mobile native, platform web modern, hingga manajemen infrastruktur jaringan.
+Saya adalah mahasiswa **Teknik Informatika** di **UPN "Veteran" Jakarta** yang berfokus pada pembangunan ekosistem digital yang fungsional dan indah. Saya menikmati proses dari riset kebutuhan pengguna, desain antarmuka, hingga implementasi sistem yang stabil dan terukur.
 
-- 🎓 **Edukasi**: Saat ini menempuh pendidikan di UPN "Veteran" Jakarta.
-- 💡 **Keahlian**: Mengintegrasikan logika backend yang kuat dengan antarmuka frontend yang intuitif.
-- 🌱 **Fokus Saat Ini**: Pengembangan platform edukasi adaptif dan aplikasi berbasis data real-time.
+- 🎓 **Edukasi**: Mahasiswa aktif UPN "Veteran" Jakarta.
+- 💡 **Kekuatan**: Menjembatani logika backend yang kuat dengan antarmuka frontend yang intuitif.
+- 🌱 **Fokus Saat Ini**: Platform edukasi adaptif dan aplikasi berbasis data real-time.
+- 🤝 **Terbuka Untuk**: Kolaborasi proyek, freelance, dan kontribusi open-source.
 
 ---
 
@@ -51,12 +52,16 @@ Saya adalah mahasiswa **Teknik Informatika** di **UPN "Veteran" Jakarta** yang b
 ### 📁 Featured Projects
 
 #### 🌟 Web Applications
-- **[Ajarin]** – Platform bimbingan belajar/mentorship yang dibangun menggunakan **Next.js**, **TypeScript**, dan **Supabase** untuk manajemen data mentor.
-- **[Weatherin]** – Aplikasi pemantau cuaca real-time yang dikembangkan dengan **React** dan **Vite**, fokus pada visualisasi data cuaca yang bersih.
-- **[Radal & Beans]** – Website e-commerce kopi berbasis **PHP** yang dirancang khusus untuk memudahkan pembeli dalam melakukan pemesanan secara online.
+- **Ajarin** – Platform bimbingan belajar/mentorship untuk manajemen data mentor.
+  - Tech: **Next.js**, **TypeScript**, **Supabase**
+- **Weatherin** – Aplikasi pemantau cuaca real-time dengan fokus visualisasi data yang bersih.
+  - Tech: **React**, **Vite**
+- **Radal & Beans** – Website e-commerce kopi untuk pemesanan online yang sederhana.
+  - Tech: **PHP**
 
 #### 📱 Mobile Applications
-- **[Inventory Management System]** – Aplikasi Android menggunakan **Kotlin** untuk manajemen stok barang secara efisien, lengkap dengan fitur login dan manajemen data.
+- **Inventory Management System** – Aplikasi Android untuk manajemen stok barang, login, dan pengelolaan data.
+  - Tech: **Kotlin**, **Android Studio**
 
 ---
 
@@ -69,4 +74,5 @@ Saya adalah mahasiswa **Teknik Informatika** di **UPN "Veteran" Jakarta** yang b
 ---
 
 ### 💬 Let's Connect!
+Jika kamu punya ide proyek, peluang kolaborasi, atau ingin berdiskusi seputar teknologi dan desain, jangan ragu untuk menghubungi saya.
 
