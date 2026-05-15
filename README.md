@@ -63,9 +63,7 @@ Saya adalah mahasiswa **Teknik Informatika** di **UPN "Veteran" Jakarta** yang b
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CallMeSon&show_icons=true&theme=radical" alt="Gerson's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CallMeSon&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CallMeSon&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
