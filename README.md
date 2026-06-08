@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me
-Saya adalah mahasiswa **Teknik Informatika** di **UPN "Veteran" Jakarta** yang berfokus pada pembangunan ekosistem digital yang fungsional dan indah. Saya menikmati proses dari riset kebutuhan pengguna, desain antarmuka, hingga implementasi sistem yang stabil dan terukur.
+Saya adalah mahasiswa **Sistem Informasi** di **UPN "Veteran" Jakarta** yang berfokus pada pembangunan ekosistem digital yang fungsional dan indah. Saya menikmati proses dari riset kebutuhan pengguna, desain antarmuka, hingga implementasi sistem yang stabil dan terukur.
 
 - 🎓 **Edukasi**: Mahasiswa aktif UPN "Veteran" Jakarta.
 - 💡 **Kekuatan**: Menjembatani logika backend yang kuat dengan antarmuka frontend yang intuitif.
